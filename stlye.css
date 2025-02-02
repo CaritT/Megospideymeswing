@@ -1,0 +1,46 @@
+/* .vi{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+
+}
+@media(min-aspect-radio: 16/9){
+    .vi{
+        width: 100%;
+        height: auto;
+    }
+
+}
+@media(max-aspect-radio: 16/9){
+    .vi{
+        width: auto;
+        height: 100%;
+    }
+
+}
+ */
+.ig{
+    filter: invert(1);
+    width: 90px;
+}
+.ip{
+    background-color: #B9121B;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.abm{
+    padding-top: 550px;
+    background-color: #0D3D66;
+}
+.bg{
+    background-color: #0D3D66;
+}
+.sp{
+    /* position: absolute;
+    top: 100px; */
+    width: 450px;
+}
+.p{
+    filter: invert(1);
+}
